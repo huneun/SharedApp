@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharedApp</string>
+    <string name="kakao_app_key">3ea64c59579b1ae7ce776d801d91f861</string>
+    <string name="kakao_scheme">kakao3ea64c59579b1ae7ce776d801d91f861</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
